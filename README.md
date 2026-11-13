@@ -32,7 +32,7 @@ LivRoch is a two-sided marketplace and AI-powered trail assistant that connects 
 | Layer | Tool | What it does |
 |-------|------|-------------|
 | IBM | watsonx.ai + IBM Granite | Natural-language route and charging planner |
-| Google | Google Maps API | Trail rendering, geocoding, distance data |
+| Leaflet | OpenStreet Map | map display and route line between rider and hosts |
 | Frontend | Lovable | Rider-facing UI: search, map, host listings, booking |
 | Data | Michigan DNR trail data, OpenStreetMap | Trail routes and waypoints (all public) |
 | Backend | Node.js (Express) | REST API connecting UI to watsonx.ai and host data |
