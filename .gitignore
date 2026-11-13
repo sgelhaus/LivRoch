@@ -1,0 +1,13 @@
+# Secrets — NEVER commit these
+api/.env
+.env
+
+# Dependencies
+node_modules/
+api/node_modules/
+
+# OS
+.DS_Store
+
+# Build output
+dist/
