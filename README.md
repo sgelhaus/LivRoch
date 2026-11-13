@@ -4,6 +4,7 @@
 
 > An Airbnb-style ebike charging network for Michigan trail riders. Chargers (hosts) meet Chargees (riders) — powered by IBM watsonx.ai.
 
+Live demo (front end built in Lovable): https://michigan-trail-chargefinder.lovable.app 
 ---
 
 ## The Problem
